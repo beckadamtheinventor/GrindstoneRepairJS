@@ -1,0 +1,8 @@
+{
+    "author": "BeckATI",
+    "description": "Repair your tools using the grindstone",
+    "versions": [9, 10],
+    "modloaders": ["fabric", "forge"],
+    "dependencies": [],
+    "incompatibilities": []
+}
